@@ -1,2 +1,3 @@
 # grive-argos
-Argos script for basic Grive2 functionality
+
+Integrates basic [Grive2](https://github.com/vitalif/grive2) functionality into Gnome Shell as an extension.
