@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="google"
+   class="svg-inline--fa fa-google fa-w-16"
+   role="img"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="google-symbolic.svg"
+   inkscape:export-filename="/home/koe/.config/argos/google-drive-sync/images/google-brands.png.png"
+   inkscape:export-xdpi="9.4426231"
+   inkscape:export-ydpi="9.4426231"
+   width="48"
+   height="48"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="28.038982"
+     inkscape:cy="27.829761"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     d="M 48,24.561294 C 48,38.254838 38.468852,48 24.393443,48 10.898361,48 0,37.277421 0,24.000005 0,10.722589 10.898361,0 24.393443,0 30.963934,0 36.491803,2.3709714 40.75082,6.280648 l -6.639345,6.280648 C 25.42623,4.3161333 9.2754098,10.509679 9.2754098,24.000005 c 0,8.37096 6.7967212,15.154838 15.1180332,15.154838 9.659016,0 13.278688,-6.812902 13.84918,-10.345166 h -13.84918 v -8.254834 h 23.22295 C 47.842623,21.783875 48,22.96452 48,24.561294 Z"
+     id="path2"
+     style="fill:#bebebe;fill-opacity:1;stroke-width:0.0975642"
+     inkscape:connector-curvature="0" />
+</svg>
