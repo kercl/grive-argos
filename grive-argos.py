@@ -21,7 +21,7 @@ class GnomeShellMenu:
       ("Settings",           "system-run-symbolic",       "settings",    "false")
     ]
     
-    self._main_icon = "fa_google_logo-symbolic"
+    self._main_icon = "fa_google_drive-symbolic"
     self.build_menu()
   
   def build_menu(self):
